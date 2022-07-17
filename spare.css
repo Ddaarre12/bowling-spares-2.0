@@ -1,0 +1,23 @@
+.spare-table {
+    border-collapse: collapse;
+    border-radius: 5px;
+    box-shadow: 0px 10px 30px 5px rgba(0,0,0,.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spare-table thead tr {
+    border-bottom: 2px solid gray
+}
+
+.spare-table thead tr td {
+    font-size: 40px;
+}
+
+.spare-table tbody tr td {
+    font-size: 36px;
+}
+
+span {
+    cursor: pointer;
+}
