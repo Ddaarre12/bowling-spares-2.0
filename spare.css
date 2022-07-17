@@ -15,7 +15,15 @@
 }
 
 .spare-table tbody tr td {
-    font-size: 36px;
+    font-size: 30px;
+}
+
+.spare-table tbody tr td:nth-child(8n+1){
+    background-color: rgb(221, 235, 247)
+}
+
+.spare-table tbody tr td:nth-last-child(1){
+    background-color: rgb(226, 239, 218)
 }
 
 span {
